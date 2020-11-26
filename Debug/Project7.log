@@ -1,0 +1,5 @@
+﻿  Functions.cpp
+J:\Проекты cpp\Project7\Project7\Functions.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project7.cpp
+  Создание кода...
+  Project7.vcxproj -> J:\Проекты cpp\Project7\Debug\Project7.exe
